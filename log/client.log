@@ -1,0 +1,829 @@
+[ 2022-09-01 15:58:41,873 ] Asset loading complete
+[ 2022-09-01 15:59:15,718 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-01 15:59:15,768 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-09-01 15:59:15,768 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-01 15:59:15,789 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-01 15:59:16,209 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-09-01 15:59:16,273 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-09-01 15:59:19,727 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-09-01 15:59:31,088 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-01 15:59:31,088 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-01 15:59:31,150 ] Disconnected from gameserver
+[ 2022-09-02 11:49:19,217 ] Asset loading complete
+[ 2022-09-02 11:49:52,388 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-02 11:49:52,439 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-09-02 11:49:52,439 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-02 11:49:52,455 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-02 11:49:52,895 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-09-02 11:49:52,958 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-09-02 11:49:55,394 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-09-02 12:06:12,256 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-02 12:06:12,256 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-02 12:06:12,313 ] Disconnected from gameserver
+[ 2022-09-02 12:26:51,969 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-02 12:26:52,019 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-09-02 12:26:52,019 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-02 12:26:52,040 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-02 12:26:52,495 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-09-02 12:26:52,543 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-09-02 12:26:55,963 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-09-02 12:43:09,156 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-02 12:43:09,156 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-02 12:43:09,213 ] Disconnected from gameserver
+[ 2022-09-18 12:39:47,026 ] Asset loading complete
+[ 2022-09-18 12:41:07,047 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-18 12:41:07,097 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-09-18 12:41:07,097 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-18 12:41:07,133 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-18 12:41:07,535 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-09-18 12:41:08,085 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-09-18 12:41:10,052 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-09-18 12:57:12,619 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-18 12:57:12,619 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-18 12:57:12,686 ] Disconnected from gameserver
+[ 2022-09-28 13:32:56,218 ] Asset loading complete
+[ 2022-09-28 13:55:05,568 ] Using spritesheet cache size of 600
+[ 2022-09-28 13:55:06,157 ] Asset loading complete
+[ 2022-09-28 13:55:09,779 ] All sound assets loaded
+[ 2022-09-28 13:56:00,380 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-28 13:56:00,431 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-09-28 13:56:00,431 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-28 13:56:00,448 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-09-28 13:56:00,921 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-09-28 13:56:01,084 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-09-28 13:56:04,388 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-09-28 13:56:40,555 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-28 13:56:40,555 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-28 13:56:40,610 ] Disconnected from gameserver
+[ 2022-09-28 13:56:43,477 ] BattlEye: "Initialized (v1.246)"
+[ 2022-09-28 13:56:43,529 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mino Sorcerer" )
+[ 2022-09-28 13:56:43,529 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2022-09-28 13:56:43,540 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2022-09-28 13:56:43,995 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"
+[ 2022-09-28 13:56:44,009 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra" established
+[ 2022-09-28 13:56:46,561 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-28 13:56:46,561 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-09-28 13:56:46,612 ] Disconnected from gameserver
+[ 2022-10-03 19:12:13,125 ] Using spritesheet cache size of 600
+[ 2022-10-03 19:12:14,146 ] Asset loading complete
+[ 2022-10-03 19:12:16,932 ] All sound assets loaded
+[ 2022-10-03 19:13:02,301 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-03 19:13:02,356 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-03 19:13:02,356 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-03 19:13:02,379 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-03 19:13:02,831 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-03 19:13:02,879 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-03 19:13:05,315 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-07 16:17:05,259 ] Using spritesheet cache size of 600
+[ 2022-10-07 16:17:05,973 ] Asset loading complete
+[ 2022-10-07 16:17:08,197 ] All sound assets loaded
+[ 2022-10-07 16:17:57,938 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-07 16:17:57,997 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-07 16:17:57,998 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-07 16:17:58,028 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-07 16:17:58,381 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-07 16:17:58,430 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-07 16:18:00,948 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-07 16:21:28,801 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-07 16:21:28,801 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-07 16:21:28,856 ] Disconnected from gameserver
+[ 2022-10-09 12:26:56,372 ] Using spritesheet cache size of 600
+[ 2022-10-09 12:26:57,270 ] Asset loading complete
+[ 2022-10-09 12:27:01,703 ] All sound assets loaded
+[ 2022-10-09 12:27:22,172 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-09 12:27:22,225 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Aeryn Nyx" )
+[ 2022-10-09 12:27:22,225 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2022-10-09 12:27:22,249 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2022-10-09 12:27:22,636 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"
+[ 2022-10-09 12:27:22,751 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra" established
+[ 2022-10-09 12:27:27,188 ] BattlEye: "Server computed GUID: 1749476351159263cd4e01b3f35dd9e6"
+[ 2022-10-09 12:27:34,245 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-09 12:27:34,245 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-09 12:27:34,297 ] Disconnected from gameserver
+[ 2022-10-09 12:27:44,899 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-09 12:27:44,950 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-09 12:27:44,950 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-09 12:27:44,971 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-09 12:27:45,326 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-09 12:27:45,340 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-09 12:27:48,894 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-09 12:28:09,496 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-09 12:28:09,496 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-09 12:28:09,548 ] Disconnected from gameserver
+[ 2022-10-10 13:34:28,942 ] Using spritesheet cache size of 600
+[ 2022-10-10 13:34:29,863 ] Asset loading complete
+[ 2022-10-10 13:34:34,752 ] All sound assets loaded
+[ 2022-10-10 13:34:58,666 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-10 13:34:58,719 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-10 13:34:58,719 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-10 13:34:58,732 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-10 13:34:59,121 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-10 13:34:59,351 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-10 13:35:02,671 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-10 13:51:01,934 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-10 13:51:01,934 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-10 13:51:01,997 ] Disconnected from gameserver
+[ 2022-10-11 14:30:51,489 ] Using spritesheet cache size of 600
+[ 2022-10-11 14:30:52,345 ] Asset loading complete
+[ 2022-10-11 14:30:54,454 ] All sound assets loaded
+[ 2022-10-11 14:32:16,092 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-11 14:32:16,150 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-11 14:32:16,150 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-11 14:32:16,170 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-11 14:32:16,527 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-11 14:32:17,013 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-11 14:32:20,124 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-11 14:32:39,730 ] Using spritesheet cache size of 600
+[ 2022-10-11 14:32:40,469 ] Asset loading complete
+[ 2022-10-11 14:32:42,626 ] All sound assets loaded
+[ 2022-10-11 14:33:19,502 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-11 14:33:19,556 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-11 14:33:19,556 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-11 14:33:19,581 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-11 14:33:19,969 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-11 14:33:20,144 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-11 14:33:22,502 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-28 15:37:39,720 ] Using spritesheet cache size of 910
+[ 2022-10-28 15:37:40,480 ] Asset loading complete
+[ 2022-10-28 15:37:42,357 ] All sound assets loaded
+[ 2022-10-28 15:38:27,603 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-28 15:38:27,666 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-28 15:38:27,666 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-28 15:38:27,678 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-28 15:38:28,088 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-28 15:38:28,130 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-28 15:38:32,635 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-28 15:38:55,890 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-28 15:38:55,890 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-28 15:38:55,946 ] Disconnected from gameserver
+[ 2022-10-30 00:11:08,142 ] Using spritesheet cache size of 910
+[ 2022-10-30 00:11:09,243 ] Asset loading complete
+[ 2022-10-30 00:11:13,848 ] All sound assets loaded
+[ 2022-10-30 00:11:54,281 ] BattlEye: "Initialized (v1.246)"
+[ 2022-10-30 00:11:54,338 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-10-30 00:11:54,338 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-30 00:11:54,347 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-10-30 00:11:54,735 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-10-30 00:11:55,075 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-10-30 00:11:57,286 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-10-30 00:12:41,127 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-30 00:12:41,127 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-10-30 00:12:41,184 ] Disconnected from gameserver
+[ 2022-11-01 19:56:46,552 ] Using spritesheet cache size of 910
+[ 2022-11-01 19:56:47,588 ] Asset loading complete
+[ 2022-11-01 19:56:53,724 ] All sound assets loaded
+[ 2022-11-01 19:59:14,718 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-01 19:59:14,782 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-11-01 19:59:14,782 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-11-01 19:59:14,793 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-11-01 19:59:15,111 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-11-01 19:59:15,627 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-11-01 19:59:18,715 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-11-01 20:08:59,540 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:08:59,540 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:08:59,596 ] Disconnected from gameserver
+[ 2022-11-01 20:09:04,188 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-01 20:09:04,243 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mino Sorcerer" )
+[ 2022-11-01 20:09:04,243 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2022-11-01 20:09:04,286 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2022-11-01 20:09:04,685 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"
+[ 2022-11-01 20:09:04,708 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra" established
+[ 2022-11-01 20:09:08,183 ] BattlEye: "Server computed GUID: 3a287421a9f6538df45b0f3e2069b222"
+[ 2022-11-01 20:10:26,341 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:10:26,341 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:10:26,397 ] Disconnected from gameserver
+[ 2022-11-01 20:10:30,901 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-01 20:10:30,955 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Smiilex" )
+[ 2022-11-01 20:10:30,955 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Ferobra"
+[ 2022-11-01 20:10:30,965 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Ferobra"
+[ 2022-11-01 20:10:31,366 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Ferobra"
+[ 2022-11-01 20:10:31,396 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Ferobra" established
+[ 2022-11-01 20:10:34,908 ] BattlEye: "Server computed GUID: ad08a2731334c5b22a6666c28f4c85a6"
+[ 2022-11-01 20:10:36,590 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Ferobra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:10:36,590 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Ferobra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:10:36,645 ] Disconnected from gameserver
+[ 2022-11-01 20:10:45,684 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-01 20:10:45,740 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Knight Kurioss" )
+[ 2022-11-01 20:10:45,740 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2022-11-01 20:10:45,752 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2022-11-01 20:10:46,686 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria"
+[ 2022-11-01 20:10:46,698 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-01 20:10:46,932 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria" established
+[ 2022-11-01 20:10:49,688 ] BattlEye: "Server computed GUID: ac2bb9863eb8ec6a163b5fbfd4b0f05f"
+[ 2022-11-01 20:10:58,990 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:10:58,990 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-01 20:10:59,051 ] Disconnected from gameserver
+[ 2022-11-03 12:24:06,257 ] Using spritesheet cache size of 910
+[ 2022-11-03 12:24:07,007 ] Asset loading complete
+[ 2022-11-03 12:24:09,640 ] All sound assets loaded
+[ 2022-11-03 12:26:07,500 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-03 12:26:07,564 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-11-03 12:26:07,564 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-11-03 12:26:07,575 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-11-03 12:26:07,916 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-11-03 12:26:07,943 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-11-03 12:26:11,506 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-11-03 12:48:11,632 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-03 12:48:11,632 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-03 12:48:11,688 ] Disconnected from gameserver
+[ 2022-11-07 14:31:50,841 ] Using spritesheet cache size of 910
+[ 2022-11-07 14:31:51,491 ] All sound assets loaded
+[ 2022-11-07 14:31:53,645 ] Asset loading complete
+[ 2022-11-07 14:31:54,967 ] All sound assets loaded
+[ 2022-11-10 21:44:37,155 ] Using spritesheet cache size of 910
+[ 2022-11-10 21:44:38,420 ] Asset loading complete
+[ 2022-11-10 21:44:40,606 ] All sound assets loaded
+[ 2022-11-10 21:44:57,342 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-10 21:44:57,438 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2022-11-10 21:44:57,438 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-11-10 21:44:57,448 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2022-11-10 21:44:57,855 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2022-11-10 21:44:57,877 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2022-11-10 21:45:01,392 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2022-11-11 10:16:56,314 ] Using spritesheet cache size of 910
+[ 2022-11-11 10:16:56,880 ] Asset loading complete
+[ 2022-11-11 10:16:59,074 ] All sound assets loaded
+[ 2022-11-11 17:16:35,149 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:16:35,716 ] All sound assets loaded
+[ 2022-11-11 17:16:35,716 ] All sound assets loaded
+[ 2022-11-11 17:16:36,376 ] Asset loading complete
+[ 2022-11-11 17:16:37,891 ] All sound assets loaded
+[ 2022-11-11 17:20:24,682 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:20:25,219 ] Asset loading complete
+[ 2022-11-11 17:20:27,093 ] All sound assets loaded
+[ 2022-11-11 17:20:44,383 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:20:46,318 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 17:20:46,318 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-11 17:20:46,318 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-11 17:20:46,371 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "GOD Calmera" )
+[ 2022-11-11 17:20:46,378 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 17:20:46,390 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 17:20:46,472 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 17:20:46,480 ] Disconnected from gameserver
+[ 2022-11-11 17:20:47,444 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:20:49,240 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:22:00,396 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:22:00,983 ] Asset loading complete
+[ 2022-11-11 17:22:02,782 ] All sound assets loaded
+[ 2022-11-11 17:22:16,718 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:22:17,908 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 17:22:17,908 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-11 17:22:17,908 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-11 17:22:17,963 ] Request connection to gameserver  "tcp://80.94.90.79:7172"  (unprotected:  "tcp://80.94.90.79:7172" )  requested (Charakter "Black Belt" )
+[ 2022-11-11 17:22:17,973 ] Request connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 17:22:17,985 ] Connected to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 17:22:19,013 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:23:50,035 ] Connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 17:23:50,088 ] Disconnected from gameserver
+[ 2022-11-11 17:23:50,372 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:23:54,718 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:23:55,222 ] Asset loading complete
+[ 2022-11-11 17:23:57,052 ] All sound assets loaded
+[ 2022-11-11 17:25:28,618 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:25:29,313 ] Asset loading complete
+[ 2022-11-11 17:25:30,982 ] All sound assets loaded
+[ 2022-11-11 17:25:44,024 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:25:46,416 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 17:25:46,417 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-11 17:25:46,417 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-11 17:25:46,469 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Nows" )
+[ 2022-11-11 17:25:46,476 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 17:25:46,486 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 17:25:46,519 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 17:25:46,526 ] Disconnected from gameserver
+[ 2022-11-11 17:25:47,508 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:25:48,007 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:25:52,441 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:25:52,924 ] Asset loading complete
+[ 2022-11-11 17:25:54,845 ] All sound assets loaded
+[ 2022-11-11 17:28:26,247 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:28:26,794 ] Asset loading complete
+[ 2022-11-11 17:28:28,607 ] All sound assets loaded
+[ 2022-11-11 17:28:33,386 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:28:33,930 ] Asset loading complete
+[ 2022-11-11 17:28:35,902 ] All sound assets loaded
+[ 2022-11-11 17:29:00,218 ] Using spritesheet cache size of 910
+[ 2022-11-11 17:29:00,721 ] Asset loading complete
+[ 2022-11-11 17:29:02,610 ] All sound assets loaded
+[ 2022-11-11 17:29:14,153 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 17:29:15,903 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 17:29:15,903 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-11 17:29:15,903 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-11 17:29:15,954 ] Request connection to gameserver  "tcp://80.94.90.79:7172"  (unprotected:  "tcp://80.94.90.79:7172" )  requested (Charakter "GOD Calmera" )
+[ 2022-11-11 17:29:15,960 ] Request connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 17:29:15,971 ] Connected to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 17:29:17,002 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 18:30:28,814 ] Using spritesheet cache size of 910
+[ 2022-11-11 18:30:29,272 ] All sound assets loaded
+[ 2022-11-11 18:30:29,272 ] All sound assets loaded
+[ 2022-11-11 18:30:30,117 ] Asset loading complete
+[ 2022-11-11 18:30:31,333 ] All sound assets loaded
+[ 2022-11-11 18:30:44,046 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 18:30:45,466 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 18:30:45,466 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-11 18:30:45,466 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-11 18:30:45,520 ] Request connection to gameserver  "tcp://80.94.90.79:7172"  (unprotected:  "tcp://80.94.90.79:7172" )  requested (Charakter "GOD Calmera" )
+[ 2022-11-11 18:30:45,528 ] Request connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 18:30:45,539 ] Connected to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 18:30:46,561 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 18:31:00,482 ] Connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 18:31:00,537 ] Disconnected from gameserver
+[ 2022-11-11 18:31:00,831 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 18:31:01,618 ] Request connection to gameserver  "tcp://80.94.90.79:7172"  (unprotected:  "tcp://80.94.90.79:7172" )  requested (Charakter "Sarterion Kina" )
+[ 2022-11-11 18:31:01,621 ] Request connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 18:31:01,632 ] Connected to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 18:31:02,587 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://playtest.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 18:32:06,610 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435463 found"
+[ 2022-11-11 18:37:31,831 ] Using spritesheet cache size of 910
+[ 2022-11-11 18:37:32,821 ] Asset loading complete
+[ 2022-11-11 18:37:34,332 ] All sound assets loaded
+[ 2022-11-11 18:37:51,862 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 18:37:53,269 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 18:37:53,269 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-11-11 18:37:53,269 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-11-11 18:37:53,326 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Black Belt" )
+[ 2022-11-11 18:37:53,334 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 18:37:53,344 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 18:37:53,394 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 18:37:53,401 ] Disconnected from gameserver
+[ 2022-11-11 18:37:54,362 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 18:37:54,633 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 18:37:55,148 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Widix" )
+[ 2022-11-11 18:37:55,151 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 18:37:55,162 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 18:37:55,193 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 18:37:55,201 ] Disconnected from gameserver
+[ 2022-11-11 18:37:56,110 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://play.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 18:37:56,190 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://play.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 18:38:16,269 ] Using spritesheet cache size of 910
+[ 2022-11-11 18:38:16,777 ] Asset loading complete
+[ 2022-11-11 18:38:18,682 ] All sound assets loaded
+[ 2022-11-11 18:38:21,726 ] Using spritesheet cache size of 910
+[ 2022-11-11 18:38:22,280 ] Asset loading complete
+[ 2022-11-11 18:38:24,012 ] All sound assets loaded
+[ 2022-11-11 18:49:26,657 ] Using spritesheet cache size of 910
+[ 2022-11-11 18:49:27,147 ] Asset loading complete
+[ 2022-11-11 18:49:28,984 ] All sound assets loaded
+[ 2022-11-11 19:31:37,516 ] Using spritesheet cache size of 910
+[ 2022-11-11 19:31:38,164 ] Asset loading complete
+[ 2022-11-11 19:31:40,000 ] All sound assets loaded
+[ 2022-11-11 19:32:08,712 ] Using spritesheet cache size of 910
+[ 2022-11-11 19:32:09,308 ] Asset loading complete
+[ 2022-11-11 19:32:11,287 ] All sound assets loaded
+[ 2022-11-11 19:32:42,685 ] Using spritesheet cache size of 910
+[ 2022-11-11 19:32:43,257 ] Asset loading complete
+[ 2022-11-11 19:32:45,129 ] All sound assets loaded
+[ 2022-11-11 19:32:54,179 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 19:32:55,750 ] Request connection to gameserver  "tcp://80.94.90.79:7172"  (unprotected:  "tcp://80.94.90.79:7172" )  requested (Charakter "Black Belt" )
+[ 2022-11-11 19:32:55,757 ] Request connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 19:32:55,770 ] Connected to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 19:32:56,795 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 19:36:17,847 ] Using spritesheet cache size of 910
+[ 2022-11-11 19:36:18,420 ] Asset loading complete
+[ 2022-11-11 19:36:20,245 ] All sound assets loaded
+[ 2022-11-11 19:36:37,375 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 19:36:38,650 ] Request connection to gameserver  "tcp://80.94.90.79:7172"  (unprotected:  "tcp://80.94.90.79:7172" )  requested (Charakter "GOD Calmera" )
+[ 2022-11-11 19:36:38,655 ] Request connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 19:36:38,666 ] Connected to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 19:36:39,700 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 20:00:17,579 ] Connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:00:17,639 ] Disconnected from gameserver
+[ 2022-11-11 20:00:17,757 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 20:00:22,011 ] Connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:00:22,070 ] Disconnected from gameserver
+[ 2022-11-11 20:00:22,186 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 20:00:24,192 ] Request connection to gameserver  "tcp://80.94.90.79:7172"  (unprotected:  "tcp://80.94.90.79:7172" )  requested (Charakter "Black Belt" )
+[ 2022-11-11 20:00:24,197 ] Request connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 20:00:24,211 ] Connected to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"
+[ 2022-11-11 20:00:25,151 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://playtest.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 20:00:58,310 ] Connection to gameserver  "tcp://80.94.90.79:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:00:58,363 ] Disconnected from gameserver
+[ 2022-11-11 20:00:58,394 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://playtest.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 20:03:43,162 ] Using spritesheet cache size of 910
+[ 2022-11-11 20:03:44,218 ] Asset loading complete
+[ 2022-11-11 20:03:45,619 ] All sound assets loaded
+[ 2022-11-11 20:03:55,055 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 20:03:56,784 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Widix" )
+[ 2022-11-11 20:03:56,785 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:03:56,796 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:03:56,875 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:03:56,882 ] Disconnected from gameserver
+[ 2022-11-11 20:03:57,813 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 20:03:58,004 ] News query failed: "Unrecognized event news."
+[ 2022-11-11 20:03:58,375 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Nows" )
+[ 2022-11-11 20:03:58,377 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:03:58,389 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:03:58,424 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:03:58,431 ] Disconnected from gameserver
+[ 2022-11-11 20:03:58,785 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://play.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 20:03:59,194 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Black Belt" )
+[ 2022-11-11 20:03:59,196 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:03:59,207 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:03:59,274 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:03:59,281 ] Disconnected from gameserver
+[ 2022-11-11 20:03:59,642 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://play.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 20:04:00,040 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Black Belt" )
+[ 2022-11-11 20:04:00,042 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:04:00,053 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:04:00,124 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:04:00,131 ] Disconnected from gameserver
+[ 2022-11-11 20:04:00,195 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://play.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 20:04:00,589 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "Black Belt" )
+[ 2022-11-11 20:04:00,591 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:04:00,603 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-11 20:04:00,674 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 20:04:00,680 ] Disconnected from gameserver
+[ 2022-11-11 20:04:00,976 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://play.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-11 20:04:01,559 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://play.calmera.com.br/login.php") ) due to too many retries.
+[ 2022-11-12 15:49:29,623 ] Using spritesheet cache size of 910
+[ 2022-11-12 15:49:30,159 ] Asset loading complete
+[ 2022-11-12 15:49:32,246 ] All sound assets loaded
+[ 2022-11-12 15:49:57,538 ] Using spritesheet cache size of 910
+[ 2022-11-12 15:49:58,094 ] Asset loading complete
+[ 2022-11-12 15:50:00,117 ] All sound assets loaded
+[ 2022-11-13 21:02:29,482 ] Using spritesheet cache size of 910
+[ 2022-11-13 21:02:30,218 ] Asset loading complete
+[ 2022-11-13 21:02:32,071 ] All sound assets loaded
+[ 2022-11-13 21:02:54,283 ] News query failed: "Unrecognized event news."
+[ 2022-11-13 21:02:54,930 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "GOD Coding" )
+[ 2022-11-13 21:02:54,938 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-13 21:02:54,962 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-13 21:02:55,977 ] News query failed: "Unrecognized event news."
+[ 2022-11-13 21:04:07,458 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268452938 found"
+[ 2022-11-13 21:04:07,458 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268452938 found"
+[ 2022-11-13 21:07:25,204 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074444436 found"
+[ 2022-11-13 21:07:52,020 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268472674 found"
+[ 2022-11-13 21:07:54,024 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268472674 found"
+[ 2022-11-13 21:07:54,024 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268472674 found"
+[ 2022-11-13 21:07:55,026 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268472674 found"
+[ 2022-11-13 21:07:56,023 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268472674 found"
+[ 2022-11-13 21:07:59,665 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479072 found"
+[ 2022-11-13 21:08:05,074 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268474846 found"
+[ 2022-11-13 21:09:25,294 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268456696 found"
+[ 2022-11-13 21:09:25,807 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268456696 found"
+[ 2022-11-13 21:09:30,012 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268469607 found"
+[ 2022-11-13 21:09:31,042 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268469607 found"
+[ 2022-11-13 21:11:29,585 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268443139 found"
+[ 2022-11-13 21:11:42,241 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481956 found"
+[ 2022-11-13 21:13:53,148 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074565110 found"
+[ 2022-11-13 21:14:22,441 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481956 found"
+[ 2022-11-13 21:15:11,961 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476208 found"
+[ 2022-11-13 21:15:16,355 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268469904 found"
+[ 2022-11-13 21:15:18,585 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268469904 found"
+[ 2022-11-13 21:17:30,150 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268456850 found"
+[ 2022-11-13 21:17:52,200 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479577 found"
+[ 2022-11-13 21:18:11,623 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268458787 found"
+[ 2022-11-13 21:20:21,037 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480537 found"
+[ 2022-11-13 21:20:55,881 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074400512 found"
+[ 2022-11-13 21:20:57,874 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074400512 found"
+[ 2022-11-13 21:20:59,869 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074548233 found"
+[ 2022-11-13 21:21:01,868 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074548233 found"
+[ 2022-11-13 21:21:05,762 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476315 found"
+[ 2022-11-13 21:21:05,870 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074548233 found"
+[ 2022-11-13 21:21:06,384 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480625 found"
+[ 2022-11-13 21:21:07,878 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074548233 found"
+[ 2022-11-13 21:21:08,545 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480625 found"
+[ 2022-11-13 21:21:11,876 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074548233 found"
+[ 2022-11-13 21:21:13,875 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074472151 found"
+[ 2022-11-13 21:21:15,879 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074375538 found"
+[ 2022-11-13 21:21:17,873 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074375538 found"
+[ 2022-11-13 21:21:40,441 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074406281 found"
+[ 2022-11-13 21:21:48,501 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566675 found"
+[ 2022-11-13 21:21:52,329 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566596 found"
+[ 2022-11-13 21:22:02,582 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566596 found"
+[ 2022-11-13 21:22:08,180 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566596 found"
+[ 2022-11-13 21:22:24,111 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566596 found"
+[ 2022-11-13 21:22:24,511 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268456827 found"
+[ 2022-11-13 21:22:28,419 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566596 found"
+[ 2022-11-13 21:22:33,013 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566596 found"
+[ 2022-11-13 21:22:45,591 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480443 found"
+[ 2022-11-13 21:23:06,968 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481428 found"
+[ 2022-11-13 21:23:07,974 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074571828 found"
+[ 2022-11-13 21:23:07,974 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481428 found"
+[ 2022-11-13 21:23:07,974 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481428 found"
+[ 2022-11-13 21:23:08,976 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074571828 found"
+[ 2022-11-13 21:23:08,976 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074571828 found"
+[ 2022-11-13 21:23:09,979 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074571828 found"
+[ 2022-11-13 21:23:09,979 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481428 found"
+[ 2022-11-13 21:23:16,409 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268472352 found"
+[ 2022-11-13 21:23:20,561 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566658 found"
+[ 2022-11-13 21:23:28,638 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479409 found"
+[ 2022-11-13 21:23:29,290 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480597 found"
+[ 2022-11-13 21:23:52,711 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074578620 found"
+[ 2022-11-13 21:23:52,713 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074578620 found"
+[ 2022-11-13 21:24:04,748 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074567398 found"
+[ 2022-11-13 21:24:11,268 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074578620 found"
+[ 2022-11-13 21:24:20,396 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074578620 found"
+[ 2022-11-13 21:24:22,393 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566851 found"
+[ 2022-11-13 21:24:26,446 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566851 found"
+[ 2022-11-13 21:24:28,442 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566851 found"
+[ 2022-11-13 21:24:30,437 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566851 found"
+[ 2022-11-13 21:24:32,437 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566851 found"
+[ 2022-11-13 21:24:34,438 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074566851 found"
+[ 2022-11-13 21:25:24,931 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074579321 found"
+[ 2022-11-13 21:25:27,148 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074579321 found"
+[ 2022-11-13 21:25:31,797 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074579321 found"
+[ 2022-11-13 21:25:33,832 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074567472 found"
+[ 2022-11-13 21:25:36,762 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074567472 found"
+[ 2022-11-13 21:25:46,944 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479416 found"
+[ 2022-11-13 21:25:53,754 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074580468 found"
+[ 2022-11-13 21:26:08,965 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481428 found"
+[ 2022-11-13 21:26:09,764 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481428 found"
+[ 2022-11-13 21:26:09,967 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074571828 found"
+[ 2022-11-13 21:26:10,965 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074571828 found"
+[ 2022-11-13 21:26:48,291 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480958 found"
+[ 2022-11-13 21:26:49,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480958 found"
+[ 2022-11-13 21:26:50,371 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480958 found"
+[ 2022-11-13 21:27:38,677 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481579 found"
+[ 2022-11-13 21:27:40,690 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481579 found"
+[ 2022-11-13 21:27:40,691 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481579 found"
+[ 2022-11-13 21:27:40,900 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475720 found"
+[ 2022-11-13 21:27:48,568 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268436047 found"
+[ 2022-11-13 21:28:13,433 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476324 found"
+[ 2022-11-13 21:28:17,785 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476324 found"
+[ 2022-11-13 21:28:24,313 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268453730 found"
+[ 2022-11-13 21:28:26,994 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481283 found"
+[ 2022-11-13 21:28:27,653 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268453730 found"
+[ 2022-11-13 21:28:32,851 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476315 found"
+[ 2022-11-13 21:28:39,205 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476324 found"
+[ 2022-11-13 21:28:41,092 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476315 found"
+[ 2022-11-13 21:28:41,103 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480625 found"
+[ 2022-11-13 21:29:33,187 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480642 found"
+[ 2022-11-13 21:30:17,865 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473856 found"
+[ 2022-11-13 21:30:19,778 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473856 found"
+[ 2022-11-13 21:30:24,941 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473856 found"
+[ 2022-11-13 21:30:56,276 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473856 found"
+[ 2022-11-13 21:31:32,384 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481425 found"
+[ 2022-11-13 21:32:51,984 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481043 found"
+[ 2022-11-13 21:32:52,404 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481043 found"
+[ 2022-11-13 21:33:02,156 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268474846 found"
+[ 2022-11-13 21:33:06,932 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480597 found"
+[ 2022-11-13 21:33:21,265 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480642 found"
+[ 2022-11-13 21:33:57,667 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074580858 found"
+[ 2022-11-13 21:33:57,667 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268448584 found"
+[ 2022-11-13 21:35:01,827 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268478845 found"
+[ 2022-11-13 21:35:51,930 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481092 found"
+[ 2022-11-13 21:36:38,810 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268472352 found"
+[ 2022-11-13 21:40:31,418 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481425 found"
+[ 2022-11-13 21:40:32,024 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481425 found"
+[ 2022-11-13 21:40:32,025 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481425 found"
+[ 2022-11-13 21:40:53,346 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479913 found"
+[ 2022-11-13 21:41:36,557 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074584539 found"
+[ 2022-11-13 21:45:59,325 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481947 found"
+[ 2022-11-13 21:47:12,355 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268469904 found"
+[ 2022-11-13 21:47:58,602 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074595637 found"
+[ 2022-11-13 21:47:58,602 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074586521 found"
+[ 2022-11-13 21:47:58,602 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074595700 found"
+[ 2022-11-13 21:47:59,018 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074588313 found"
+[ 2022-11-13 21:48:01,153 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074587036 found"
+[ 2022-11-13 21:48:01,153 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074585595 found"
+[ 2022-11-13 21:48:01,270 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074588615 found"
+[ 2022-11-13 21:48:01,647 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475720 found"
+[ 2022-11-13 21:48:14,035 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475720 found"
+[ 2022-11-13 21:49:48,428 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268478549 found"
+[ 2022-11-13 21:50:42,301 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268474126 found"
+[ 2022-11-13 21:51:57,663 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481215 found"
+[ 2022-11-13 21:51:58,660 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481215 found"
+[ 2022-11-13 21:51:58,660 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481215 found"
+[ 2022-11-13 21:55:09,562 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475550 found"
+[ 2022-11-13 21:55:10,570 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475550 found"
+[ 2022-11-13 21:55:11,566 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475550 found"
+[ 2022-11-13 21:56:09,553 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268468897 found"
+[ 2022-11-13 21:56:49,598 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481470 found"
+[ 2022-11-13 21:58:13,279 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481581 found"
+[ 2022-11-13 21:58:45,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268478860 found"
+[ 2022-11-13 21:58:49,444 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268478860 found"
+[ 2022-11-13 21:58:49,805 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268478860 found"
+[ 2022-11-13 21:59:16,532 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268474282 found"
+[ 2022-11-13 22:00:31,033 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074602234 found"
+[ 2022-11-13 22:00:32,028 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482079 found"
+[ 2022-11-13 22:00:33,026 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074602234 found"
+[ 2022-11-13 22:00:35,024 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074602234 found"
+[ 2022-11-13 22:00:37,029 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074602234 found"
+[ 2022-11-13 22:00:38,070 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482079 found"
+[ 2022-11-13 22:00:40,525 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074603199 found"
+[ 2022-11-13 22:00:42,520 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074603199 found"
+[ 2022-11-13 22:00:44,528 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074603199 found"
+[ 2022-11-13 22:00:46,530 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074603199 found"
+[ 2022-11-13 22:00:47,507 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268462490 found"
+[ 2022-11-13 22:00:48,722 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074602232 found"
+[ 2022-11-13 22:00:58,744 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482079 found"
+[ 2022-11-13 22:01:02,149 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482079 found"
+[ 2022-11-13 22:01:02,759 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482079 found"
+[ 2022-11-13 22:01:08,152 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482079 found"
+[ 2022-11-13 22:01:13,926 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074588510 found"
+[ 2022-11-13 22:01:52,699 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268474282 found"
+[ 2022-11-13 22:02:00,702 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268474282 found"
+[ 2022-11-13 22:03:23,464 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074597236 found"
+[ 2022-11-13 22:04:00,111 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482060 found"
+[ 2022-11-13 22:07:50,819 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268456183 found"
+[ 2022-11-13 22:09:56,412 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481683 found"
+[ 2022-11-13 22:10:13,350 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481683 found"
+[ 2022-11-13 22:10:21,551 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481683 found"
+[ 2022-11-13 22:10:35,479 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268444046 found"
+[ 2022-11-13 22:10:36,486 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268444046 found"
+[ 2022-11-13 22:10:37,525 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268444046 found"
+[ 2022-11-13 22:13:51,297 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481470 found"
+[ 2022-11-13 22:13:52,315 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481470 found"
+[ 2022-11-13 22:13:53,334 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481470 found"
+[ 2022-11-13 22:13:54,334 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481470 found"
+[ 2022-11-13 22:14:29,209 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481830 found"
+[ 2022-11-13 22:16:13,249 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268465313 found"
+[ 2022-11-13 22:16:52,737 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481470 found"
+[ 2022-11-13 22:17:06,363 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268464432 found"
+[ 2022-11-13 22:21:14,653 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268464633 found"
+[ 2022-11-13 22:21:15,675 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268464633 found"
+[ 2022-11-13 22:21:15,675 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268464633 found"
+[ 2022-11-13 22:22:46,130 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481683 found"
+[ 2022-11-13 22:22:58,285 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268466477 found"
+[ 2022-11-13 22:23:11,172 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482014 found"
+[ 2022-11-13 22:23:19,254 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480662 found"
+[ 2022-11-13 22:23:19,911 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268480958 found"
+[ 2022-11-13 22:24:57,934 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481889 found"
+[ 2022-11-13 22:25:22,601 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268471971 found"
+[ 2022-11-13 22:25:24,005 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268471971 found"
+[ 2022-11-13 22:25:24,605 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268471971 found"
+[ 2022-11-13 22:26:00,338 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473637 found"
+[ 2022-11-13 22:28:01,961 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268464633 found"
+[ 2022-11-13 22:28:02,961 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268464633 found"
+[ 2022-11-13 22:29:52,855 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074627241 found"
+[ 2022-11-13 22:30:22,077 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074633397 found"
+[ 2022-11-13 22:32:06,162 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473637 found"
+[ 2022-11-13 22:33:47,299 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268453225 found"
+[ 2022-11-13 22:35:30,702 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482013 found"
+[ 2022-11-13 22:37:36,701 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074602272 found"
+[ 2022-11-13 22:37:38,712 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074615259 found"
+[ 2022-11-13 22:37:40,615 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074602274 found"
+[ 2022-11-13 22:39:03,984 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482082 found"
+[ 2022-11-13 22:40:29,997 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268477902 found"
+[ 2022-11-13 22:41:31,590 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479189 found"
+[ 2022-11-13 22:41:31,958 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479189 found"
+[ 2022-11-13 22:41:32,594 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479189 found"
+[ 2022-11-13 22:41:33,597 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479189 found"
+[ 2022-11-13 22:47:33,243 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268466477 found"
+[ 2022-11-13 22:47:33,351 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268466477 found"
+[ 2022-11-13 22:47:33,351 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268466477 found"
+[ 2022-11-13 22:47:33,351 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268466477 found"
+[ 2022-11-13 22:47:43,846 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268474258 found"
+[ 2022-11-13 22:52:48,341 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268441264 found"
+[ 2022-11-13 22:55:26,272 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268467132 found"
+[ 2022-11-13 22:56:44,236 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074649966 found"
+[ 2022-11-13 22:56:45,244 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479766 found"
+[ 2022-11-13 22:56:45,244 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074649966 found"
+[ 2022-11-13 22:57:22,082 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473667 found"
+[ 2022-11-13 22:57:23,119 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473667 found"
+[ 2022-11-13 22:57:24,120 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473667 found"
+[ 2022-11-13 22:59:43,158 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475550 found"
+[ 2022-11-13 23:00:55,928 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479489 found"
+[ 2022-11-13 23:00:56,144 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479489 found"
+[ 2022-11-13 23:00:56,422 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479489 found"
+[ 2022-11-13 23:08:48,801 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074664149 found"
+[ 2022-11-13 23:15:24,277 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268441535 found"
+[ 2022-11-13 23:15:25,278 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268441535 found"
+[ 2022-11-13 23:15:29,304 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268441264 found"
+[ 2022-11-13 23:27:24,510 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268470546 found"
+[ 2022-11-13 23:29:32,115 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476444 found"
+[ 2022-11-13 23:29:32,520 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476444 found"
+[ 2022-11-13 23:31:30,115 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481041 found"
+[ 2022-11-13 23:31:55,463 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268470546 found"
+[ 2022-11-13 23:35:54,949 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268470703 found"
+[ 2022-11-13 23:38:17,617 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481041 found"
+[ 2022-11-13 23:46:31,326 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268478963 found"
+[ 2022-11-13 23:47:26,958 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268441264 found"
+[ 2022-11-13 23:47:27,884 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473667 found"
+[ 2022-11-13 23:48:43,521 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268469795 found"
+[ 2022-11-13 23:49:09,484 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268469795 found"
+[ 2022-11-13 23:51:42,144 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074703544 found"
+[ 2022-11-14 00:00:12,192 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268478363 found"
+[ 2022-11-14 00:00:36,920 ] Connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-14 00:00:36,979 ] Disconnected from gameserver
+[ 2022-11-14 00:00:37,238 ] News query failed: "Unrecognized event news."
+[ 2022-11-14 19:05:18,215 ] Using spritesheet cache size of 910
+[ 2022-11-14 19:05:18,807 ] All sound assets loaded
+[ 2022-11-14 19:05:18,807 ] All sound assets loaded
+[ 2022-11-14 19:05:18,807 ] All sound assets loaded
+[ 2022-11-14 19:05:19,682 ] Asset loading complete
+[ 2022-11-14 19:05:21,407 ] All sound assets loaded
+[ 2022-11-14 19:05:31,006 ] News query failed: "Unrecognized event news."
+[ 2022-11-14 19:05:31,977 ] Request connection to gameserver  "tcp://80.94.90.38:7172"  (unprotected:  "tcp://80.94.90.38:7172" )  requested (Charakter "GOD Coding" )
+[ 2022-11-14 19:05:31,986 ] Request connection to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-14 19:05:32,008 ] Connected to gameserver  "tcp://80.94.90.38:7172" "Calmera-OT"
+[ 2022-11-14 19:05:33,020 ] News query failed: "Unrecognized event news."
+[ 2022-11-14 19:05:45,665 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074332753 found"
+[ 2022-11-14 19:05:48,621 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475065 found"
+[ 2022-11-14 19:06:00,697 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475065 found"
+[ 2022-11-14 19:06:12,802 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475065 found"
+[ 2022-11-14 19:06:24,881 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268475065 found"
+[ 2022-11-14 19:08:49,954 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268481530 found"
+[ 2022-11-14 19:10:49,205 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:10:51,202 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:10:53,208 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:10:55,207 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:10:57,209 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:10:59,203 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:11:01,211 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:11:03,205 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:11:05,209 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:11:07,211 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074330736 found"
+[ 2022-11-14 19:11:09,962 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074336615 found"
+[ 2022-11-14 19:11:20,019 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:24,026 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:24,998 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:26,341 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:27,008 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:28,399 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:28,612 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:29,005 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:30,412 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:32,409 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:33,020 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:34,402 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:36,406 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:38,401 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:39,032 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:39,032 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:39,333 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:40,403 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:42,412 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074273879 found"
+[ 2022-11-14 19:11:42,412 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:44,445 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476324 found"
+[ 2022-11-14 19:11:44,445 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476324 found"
+[ 2022-11-14 19:11:44,488 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074319837 found"
+[ 2022-11-14 19:11:46,471 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476324 found"
+[ 2022-11-14 19:11:46,482 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074319837 found"
+[ 2022-11-14 19:11:47,633 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268462325 found"
+[ 2022-11-14 19:11:48,484 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074319837 found"
+[ 2022-11-14 19:11:48,648 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268462325 found"
+[ 2022-11-14 19:11:51,129 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268462325 found"
+[ 2022-11-14 19:11:51,152 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:51,152 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:52,384 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268462325 found"
+[ 2022-11-14 19:11:52,483 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074319837 found"
+[ 2022-11-14 19:11:52,665 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268462325 found"
+[ 2022-11-14 19:11:53,155 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:54,483 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074319837 found"
+[ 2022-11-14 19:11:55,457 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:56,345 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:56,485 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074319837 found"
+[ 2022-11-14 19:11:56,497 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:57,188 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:57,188 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:57,189 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:11:59,262 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074318337 found"
+[ 2022-11-14 19:12:02,202 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074318337 found"
+[ 2022-11-14 19:12:03,199 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:12:04,222 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074318337 found"
+[ 2022-11-14 19:12:04,222 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:12:06,405 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:13,239 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:15,239 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:17,234 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:21,245 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:21,298 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:12:25,239 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:27,239 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:27,272 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074334608 found"
+[ 2022-11-14 19:12:27,315 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:12:31,239 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1074322689 found"
+[ 2022-11-14 19:12:31,240 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482143 found"
+[ 2022-11-14 19:14:22,477 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:22,477 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:23,498 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:25,502 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:27,502 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:30,517 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:31,523 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:35,563 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:35,564 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:39,567 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:40,571 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:41,571 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:43,647 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:45,675 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:47,679 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:50,689 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:51,688 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:55,699 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:55,699 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:14:59,699 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:15:00,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:15:03,724 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:15:05,729 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268461111 found"
+[ 2022-11-14 19:17:33,057 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476502 found"
+[ 2022-11-14 19:17:34,068 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476502 found"
+[ 2022-11-14 19:17:34,068 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268476502 found"
+[ 2022-11-14 19:22:04,422 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479906 found"
+[ 2022-11-14 19:22:04,422 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268479906 found"
+[ 2022-11-14 19:24:42,574 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482066 found"
+[ 2022-11-14 19:24:59,015 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473283 found"
+[ 2022-11-14 19:24:59,288 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268473283 found"
+[ 2022-11-14 19:26:21,694 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268436114 found"
+[ 2022-11-14 19:28:39,619 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268451682 found"
+[ 2022-11-14 19:28:40,622 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268451682 found"
+[ 2022-11-14 19:29:09,462 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268457807 found"
+[ 2022-11-14 19:34:13,781 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268471219 found"
+[ 2022-11-14 19:34:15,888 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268458787 found"
+[ 2022-11-14 19:34:40,826 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268448411 found"
+[ 2022-11-14 19:38:24,153 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482075 found"
+[ 2022-11-14 19:38:24,153 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482075 found"
+[ 2022-11-14 19:38:25,156 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268482075 found"
