@@ -1347,3 +1347,6 @@
 [ 2023-02-11 00:11:26,989 ] Request connection to gameserver  "tcp://189.127.165.153:7172" "Calmera-OT"
 [ 2023-02-11 00:11:27,013 ] Connected to gameserver  "tcp://189.127.165.153:7172" "Calmera-OT"
 [ 2023-02-11 00:11:28,233 ] News query failed: "Unrecognized event news."
+[ 2023-02-11 00:38:51,745 ] Cannot open "C:\Users\Rodrigo\Documents\GitHub\CalmeraClient\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2023-02-11 00:38:52,369 ] Using spritesheet cache size of 910
+[ 2023-02-11 00:38:53,627 ] Asset loading complete
