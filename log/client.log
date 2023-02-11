@@ -1336,3 +1336,14 @@
 [ 2023-01-16 18:20:45,994 ] Asset loading complete
 [ 2023-01-16 18:20:47,751 ] Could not parse hints file at offset 1 : "illegal value"
 [ 2023-01-16 18:20:56,493 ] Update failed. Please reinstall Tibia to update your client.
+[ 2023-02-11 00:11:15,390 ] Cannot open "C:\Users\Rodrigo\Desktop\Calmera_13.11v2\Calmera_13.11\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2023-02-11 00:11:16,006 ] Using spritesheet cache size of 910
+[ 2023-02-11 00:11:16,743 ] Asset loading complete
+[ 2023-02-11 00:11:25,612 ] News query failed: "Unrecognized event news."
+[ 2023-02-11 00:11:26,927 ] BattlEye: "Initialized (v1.246)"
+[ 2023-02-11 00:11:26,927 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-02-11 00:11:26,927 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-02-11 00:11:26,981 ] Request connection to gameserver  "tcp://189.127.165.153:7172"  (unprotected:  "tcp://189.127.165.153:7172" )  requested (Charakter "Purcino" )
+[ 2023-02-11 00:11:26,989 ] Request connection to gameserver  "tcp://189.127.165.153:7172" "Calmera-OT"
+[ 2023-02-11 00:11:27,013 ] Connected to gameserver  "tcp://189.127.165.153:7172" "Calmera-OT"
+[ 2023-02-11 00:11:28,233 ] News query failed: "Unrecognized event news."
