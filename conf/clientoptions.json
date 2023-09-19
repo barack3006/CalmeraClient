@@ -3,10 +3,9 @@
         "chatModeOn": true,
         "lootChannelOpen": false,
         "openChannels": [
-            2,
-            7,
             3,
-            5
+            5,
+            7
         ]
     },
     "clientOptionsVersion": 6,
@@ -14,9 +13,9 @@
         "clientWindowHeight": 650,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 473,
-        "clientWindowPositionY": 38,
-        "clientWindowScreenName": "\\\\.\\DISPLAY1",
+        "clientWindowPositionX": 2077,
+        "clientWindowPositionY": 71,
+        "clientWindowScreenName": "\\\\.\\DISPLAY2",
         "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
@@ -2978,7 +2977,7 @@
         "actionButtonShowSpellParameters": true,
         "antialiasingMode": 1,
         "autoChaseEnabled": false,
-        "buyToContainerEnabled": true,
+        "buyToContainerEnabled": false,
         "charTradePaymentRemindAgain": 0,
         "characterSelectionShowHidden": true,
         "characterSelectionShowOutfits": true,
@@ -3032,7 +3031,7 @@
         "linkCopyWarningEnabled": true,
         "loginEmailAddress": "",
         "lootSchemeIndex": 0,
-        "mapWindowHeight": 427,
+        "mapWindowHeight": 786,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
         "mouseBigCursor": false,
