@@ -3,9 +3,10 @@
         "chatModeOn": true,
         "lootChannelOpen": false,
         "openChannels": [
+            2,
+            7,
             3,
-            5,
-            7
+            5
         ]
     },
     "clientOptionsVersion": 6,
@@ -13,9 +14,9 @@
         "clientWindowHeight": 650,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 2077,
-        "clientWindowPositionY": 71,
-        "clientWindowScreenName": "\\\\.\\DISPLAY2",
+        "clientWindowPositionX": 450,
+        "clientWindowPositionY": 191,
+        "clientWindowScreenName": "\\\\.\\DISPLAY1",
         "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
@@ -24,32 +25,32 @@
         "enabledButtons": [
             "skillsWidget",
             "battleListWidget",
-            "partyWidget",
-            "vipWidget",
             "spellListWidget",
-            "skillWheelDialog",
+            "vipWidget",
+            "lenshelpFunction",
             "questDialog",
+            "compendiumDialog",
+            "cyclopediaDialog",
+            "highscoresDialog",
+            "partyWidget",
+            "skillWheelDialog",
             "questTrackerWidget",
             "unjustifiedPoinsWidget",
             "preyDialog",
             "preyWidget",
             "rewardWallDialog",
             "analyticsSelectorWidget",
-            "compendiumDialog",
-            "cyclopediaDialog",
             "bosstiaryDialog",
             "bossslotsDialog",
             "bosstiaryTrackerWidget",
             "bestiaryTrackerWidget",
             "imbuementTrackerWidget",
             "exaltationForgeDialog",
-            "friendsDialog",
-            "lenshelpFunction",
-            "highscoresDialog"
+            "friendsDialog"
         ]
     },
     "hotkeyOptions": {
-        "autoSwitchHotkeyPreset": false,
+        "autoSwitchHotkeyPreset": true,
         "currentHotkeySetName": "Knight",
         "hotkeySets": {
             "Druid": {
@@ -787,16 +788,16 @@
                             "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
-                                "useObject": 7876,
-                                "useType": "UseOnYourself"
+                                "chatText": "/a 10",
+                                "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
                             "actionButton": 2,
                             "actionsetting": {
-                                "useObject": 268,
-                                "useType": "UseOnYourself"
+                                "useObject": 3161,
+                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -804,6 +805,62 @@
                             "actionButton": 3,
                             "actionsetting": {
                                 "chatText": "exura infir ico",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 4,
+                            "actionsetting": {
+                                "chatText": "exevo mas san",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 6,
+                            "actionsetting": {
+                                "chatText": "exura gran san",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 15,
+                            "actionsetting": {
+                                "chatText": "/m drume",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 7,
+                            "actionsetting": {
+                                "chatText": "exori gran",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "chatText": "utevo grav san",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 16,
+                            "actionsetting": {
+                                "chatText": "/m scarlett etzel",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "chatText": "/m grand master oberon",
                                 "sendAutomatically": true
                             }
                         }
@@ -1523,7 +1580,7 @@
                             "actionBar": 1,
                             "actionButton": 4,
                             "actionsetting": {
-                                "chatText": "exevo infir con",
+                                "chatText": "exori san infir",
                                 "sendAutomatically": true
                             }
                         }
@@ -2977,7 +3034,6 @@
         "actionButtonShowSpellParameters": true,
         "antialiasingMode": 1,
         "autoChaseEnabled": false,
-        "buyToContainerEnabled": false,
         "charTradePaymentRemindAgain": 0,
         "characterSelectionShowHidden": true,
         "characterSelectionShowOutfits": true,
@@ -3006,10 +3062,12 @@
         "emergencyDialogVersion": 0,
         "frameRateLimit": 60,
         "frameRateLimitEnabled": false,
+        "gameWindowLowerPaneHeight": 18,
+        "gameWindowResizingMode": 0,
         "gameWindowScaleOnlyByEvenMultiples": false,
         "gameWindowShowBoostedCreatureMessages": true,
         "gameWindowShowHotkeyUsageMessages": true,
-        "gameWindowShowLootHighlighting": false,
+        "gameWindowShowLootHighlighting": true,
         "gameWindowShowLootMessages": true,
         "gameWindowShowMessages": true,
         "gameWindowShowOfflineTrainingMessages": true,
@@ -3021,6 +3079,7 @@
         "gameWindowShowTargetHighlight": true,
         "gameWindowShowTextualEffects": true,
         "gameWindowShowTragetFrame": true,
+        "gameWindowUpperPaneHeight": 794,
         "inspectPlayerAllowAllEnabled": false,
         "keyboardDelayMs": 250,
         "keyboardDelayUseDefault": true,
@@ -3031,12 +3090,12 @@
         "linkCopyWarningEnabled": true,
         "loginEmailAddress": "",
         "lootSchemeIndex": 0,
-        "mapWindowHeight": 786,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
         "mouseBigCursor": false,
         "mouseHighlightTarget": true,
         "mouseSystemCursor": true,
+        "nextOSWarningTimestamp": 0,
         "openNewPrivateMessagesInNewTab": false,
         "optionsShowAdvanced": true,
         "playerHudArcDistance": 0.25,
@@ -3054,7 +3113,6 @@
         "quickLootAllCorpsesOnCoordinateEnabled": true,
         "rememberLoginEmail": false,
         "rendererIndex": 0,
-        "retrieveFromStashToContainerEnabled": true,
         "rotateWithAlt": false,
         "rotateWithCtrl": true,
         "rotateWithShift": false,
@@ -3083,9 +3141,9 @@
         "showExpireInContainers": false,
         "showExpireInInventory": true,
         "showExpireWhenUnused": true,
-        "showFpsLagIndicator": true,
+        "showFpsLagIndicator": false,
         "soundAmbienceVolume": 100,
-        "soundAnthemEnabled": true,
+        "soundAnthemEnabled": false,
         "soundBattleCreaturesAttacksEnabled": true,
         "soundBattleCreaturesDeathEnabled": true,
         "soundBattleCreaturesNoisesEnabled": true,
@@ -3105,17 +3163,17 @@
         "soundEatingEnabled": true,
         "soundEventsVolume": 100,
         "soundItemsVolume": 100,
-        "soundMasterVolume": 100,
+        "soundMasterVolume": 0,
         "soundMasterVolumeOld": 100,
         "soundMoveItemEnabled": true,
-        "soundMusicVolume": 50,
+        "soundMusicVolume": 15,
         "soundPartyEnabled": true,
         "soundUiInteractionsEnabled": true,
         "soundUiVolume": 100,
         "soundVipEnabled": true,
         "stashAskBeforeStowContainerContent": true,
         "statusBarEnabled": true,
-        "statusPanelEnabled": false,
+        "statusPanelEnabled": true,
         "storeAskBeforeBuyingProducts": true,
         "vSyncEnabled": false
     },

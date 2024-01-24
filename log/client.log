@@ -1,0 +1,298 @@
+[ 2023-12-06 21:15:23,373 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-06 21:15:24,621 ] Using spritesheet cache size of 910
+[ 2023-12-06 21:15:27,114 ] Client is started for first the time.
+[ 2023-12-06 21:15:27,351 ] Asset loading complete
+[ 2023-12-06 21:15:31,712 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2023-12-06 21:15:32,085 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2023-12-06 21:15:32,457 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2023-12-06 21:15:32,458 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2023-12-06 21:16:43,081 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-06 21:16:43,081 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-06 21:16:43,081 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-06 21:16:43,156 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-06 21:16:43,156 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-06 21:16:43,169 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-06 21:16:43,548 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-06 21:16:43,606 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-06 21:16:47,083 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-08 20:02:00,308 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-08 20:02:01,566 ] Using spritesheet cache size of 910
+[ 2023-12-08 20:02:03,889 ] Asset loading complete
+[ 2023-12-08 20:02:38,700 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-08 20:02:38,700 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-08 20:02:38,700 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-08 20:02:38,757 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-08 20:02:38,757 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-08 20:02:38,770 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-08 20:02:39,130 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-08 20:02:39,180 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-08 20:02:42,692 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-08 20:02:47,441 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-08 20:02:47,441 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-08 20:02:47,513 ] Disconnected from gameserver
+[ 2023-12-16 15:54:47,116 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-16 15:54:48,494 ] Using spritesheet cache size of 910
+[ 2023-12-16 15:54:49,493 ] Asset loading complete
+[ 2023-12-16 15:55:24,220 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-16 15:55:24,220 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-16 15:55:24,220 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-16 15:55:24,286 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-16 15:55:24,287 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-16 15:55:24,298 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-16 15:55:24,641 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-16 15:55:24,883 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-16 15:55:27,222 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-17 19:04:59,629 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-17 19:05:00,922 ] Using spritesheet cache size of 910
+[ 2023-12-17 19:05:03,285 ] Asset loading complete
+[ 2023-12-17 19:05:28,499 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 19:05:28,499 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 19:05:28,499 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 19:05:28,564 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-17 19:05:28,565 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 19:05:28,577 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 19:05:28,911 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 19:05:29,124 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-17 19:05:32,503 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-17 19:05:45,236 ] Retrying to obtain clipboard.
+[ 2023-12-17 19:08:14,488 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:08:14,488 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:08:14,561 ] Disconnected from gameserver
+[ 2023-12-17 19:08:18,004 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 19:08:18,004 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 19:08:18,004 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 19:08:18,059 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Aeryn Nyx" )
+[ 2023-12-17 19:08:18,060 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2023-12-17 19:08:18,071 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
+[ 2023-12-17 19:08:18,439 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"
+[ 2023-12-17 19:08:18,514 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra" established
+[ 2023-12-17 19:08:22,003 ] BattlEye: "Server computed GUID: 1749476351159263cd4e01b3f35dd9e6"
+[ 2023-12-17 19:08:51,238 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:08:51,238 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:08:51,310 ] Disconnected from gameserver
+[ 2023-12-17 19:08:54,621 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 19:08:54,621 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 19:08:54,622 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 19:08:54,681 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Arturio Kang" )
+[ 2023-12-17 19:08:54,681 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Bombra"
+[ 2023-12-17 19:08:54,692 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Bombra"
+[ 2023-12-17 19:08:55,041 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Bombra"
+[ 2023-12-17 19:08:55,053 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Bombra" established
+[ 2023-12-17 19:08:57,038 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Bombra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:08:57,038 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Bombra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:08:57,111 ] Disconnected from gameserver
+[ 2023-12-17 19:09:01,407 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 19:09:01,408 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 19:09:01,408 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 19:09:01,468 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Handsome Sky" )
+[ 2023-12-17 19:09:01,469 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2023-12-17 19:09:01,480 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2023-12-17 19:09:02,416 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria"
+[ 2023-12-17 19:09:02,425 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-12-17 19:09:02,668 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria" established
+[ 2023-12-17 19:09:04,409 ] BattlEye: "Server computed GUID: 0752849ea7056a3bd177d3281c306659"
+[ 2023-12-17 19:09:07,239 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:09:07,240 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:09:07,325 ] Disconnected from gameserver
+[ 2023-12-17 19:09:11,220 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 19:09:11,222 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 19:09:11,222 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 19:09:11,280 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Knight Kurioss" )
+[ 2023-12-17 19:09:11,280 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2023-12-17 19:09:11,291 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2023-12-17 19:09:12,201 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria"
+[ 2023-12-17 19:09:12,237 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-12-17 19:09:12,409 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria" established
+[ 2023-12-17 19:09:15,222 ] BattlEye: "Server computed GUID: ac2bb9863eb8ec6a163b5fbfd4b0f05f"
+[ 2023-12-17 19:09:31,238 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:09:31,238 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:09:31,307 ] Disconnected from gameserver
+[ 2023-12-17 19:09:35,570 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 19:09:35,571 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 19:09:35,571 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 19:09:35,629 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2023-12-17 19:09:35,630 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 19:09:35,642 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 19:09:36,032 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 19:09:36,143 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2023-12-17 19:09:36,583 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-12-17 19:09:39,568 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2023-12-17 19:10:21,738 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:10:21,738 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 19:10:21,818 ] Disconnected from gameserver
+[ 2023-12-17 19:10:25,836 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 19:10:25,837 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 19:10:25,837 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 19:10:25,899 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-17 19:10:25,899 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 19:10:25,909 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 19:10:26,247 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 19:10:26,273 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-17 19:10:26,846 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-12-17 19:10:28,831 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-17 22:07:01,234 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-17 22:07:02,477 ] Using spritesheet cache size of 910
+[ 2023-12-17 22:07:05,017 ] Asset loading complete
+[ 2023-12-17 22:07:05,164 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:07:59,847 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:00,212 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:03,043 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:03,522 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:04,549 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:06,066 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 22:08:06,066 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 22:08:06,066 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 22:08:06,121 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-17 22:08:06,121 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 22:08:06,133 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 22:08:06,516 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 22:08:06,569 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-17 22:08:08,564 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:09,980 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 22:08:09,980 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 22:08:10,057 ] Disconnected from gameserver
+[ 2023-12-17 22:08:10,524 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:12,981 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:14,469 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 22:08:14,469 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 22:08:14,469 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 22:08:14,519 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2023-12-17 22:08:14,519 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 22:08:14,533 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 22:08:14,875 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 22:08:14,889 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2023-12-17 22:08:16,303 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:17,251 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:17,472 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2023-12-17 22:08:25,740 ] Could not find Sound Effect ID 688
+[ 2023-12-17 22:08:50,927 ] Retrying to obtain clipboard.
+[ 2023-12-17 22:09:36,430 ] Retrying to obtain clipboard.
+[ 2023-12-17 22:10:24,901 ] Retrying to obtain clipboard.
+[ 2023-12-17 22:17:47,325 ] Retrying to obtain clipboard.
+[ 2023-12-17 22:18:05,142 ] Retrying to obtain clipboard.
+[ 2023-12-17 22:25:29,180 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 22:25:29,180 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 22:25:29,257 ] Disconnected from gameserver
+[ 2023-12-17 22:57:09,793 ] Retrying to obtain clipboard.
+[ 2023-12-17 23:29:34,119 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-17 23:29:35,359 ] Using spritesheet cache size of 910
+[ 2023-12-17 23:29:37,088 ] Asset loading complete
+[ 2023-12-17 23:30:01,285 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 23:30:01,285 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 23:30:01,285 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 23:30:01,348 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-17 23:30:01,348 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 23:30:01,359 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 23:30:01,697 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-17 23:30:01,740 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-17 23:30:02,741 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 23:30:02,741 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-17 23:30:02,811 ] Disconnected from gameserver
+[ 2023-12-17 23:30:06,542 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-17 23:30:06,542 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-17 23:30:06,542 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-17 23:30:06,600 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Mazgrim" )
+[ 2023-12-17 23:30:06,600 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 23:30:06,611 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 23:30:06,931 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra"
+[ 2023-12-17 23:30:06,943 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Descubra" established
+[ 2023-12-17 23:30:09,535 ] BattlEye: "Server computed GUID: faf876b903ccb992d5735b0efe30b143"
+[ 2023-12-22 12:07:53,879 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-22 12:07:55,112 ] Using spritesheet cache size of 910
+[ 2023-12-22 12:07:57,098 ] Asset loading complete
+[ 2023-12-22 12:08:32,844 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-22 12:08:32,844 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-22 12:08:32,844 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-22 12:08:32,899 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-22 12:08:32,899 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-22 12:08:32,911 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-22 12:08:33,221 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-22 12:08:33,281 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-22 12:08:36,850 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-22 12:13:30,316 ] Retrying to obtain clipboard.
+[ 2023-12-22 12:17:33,412 ] Retrying to obtain clipboard.
+[ 2023-12-22 12:17:35,107 ] Retrying to obtain clipboard.
+[ 2023-12-22 12:17:36,313 ] Retrying to obtain clipboard.
+[ 2023-12-22 12:20:52,248 ] Retrying to obtain clipboard.
+[ 2023-12-22 12:26:27,901 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-22 12:26:27,901 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-22 12:26:27,974 ] Disconnected from gameserver
+[ 2023-12-23 11:58:32,444 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-12-23 11:58:33,608 ] Using spritesheet cache size of 910
+[ 2023-12-23 11:58:36,265 ] Asset loading complete
+[ 2023-12-23 12:01:38,818 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-23 12:01:38,819 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-23 12:01:38,819 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-23 12:01:38,877 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-23 12:01:38,877 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 12:01:38,889 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 12:01:39,274 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 12:01:39,339 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-23 12:01:41,818 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-23 12:01:50,089 ] Retrying to obtain clipboard.
+[ 2023-12-23 12:22:16,727 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-23 12:22:16,727 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-23 12:22:16,808 ] Disconnected from gameserver
+[ 2023-12-23 20:46:16,490 ] Retrying to obtain clipboard.
+[ 2023-12-23 22:39:15,419 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-23 22:39:15,420 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-23 22:39:15,420 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-23 22:39:15,539 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-23 22:39:15,540 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 22:39:15,554 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 22:39:15,857 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 22:39:15,910 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-23 22:39:18,413 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-23 22:55:16,876 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-23 22:55:16,877 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2023-12-23 22:55:16,956 ] Disconnected from gameserver
+[ 2023-12-23 23:34:07,252 ] BattlEye: "Initialized (v1.249)"
+[ 2023-12-23 23:34:07,252 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-12-23 23:34:07,252 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-12-23 23:34:07,314 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2023-12-23 23:34:07,315 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 23:34:07,329 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 23:34:07,663 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2023-12-23 23:34:07,715 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2023-12-23 23:34:10,238 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2023-12-23 23:34:10,296 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2024-01-06 14:27:37,443 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-06 14:27:39,223 ] Using spritesheet cache size of 910
+[ 2024-01-06 14:27:41,698 ] Asset loading complete
+[ 2024-01-06 14:28:48,979 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-06 14:28:48,979 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-06 14:28:48,979 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-06 14:28:49,069 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Knight Kurioss" )
+[ 2024-01-06 14:28:49,069 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2024-01-06 14:28:49,081 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Peloria"
+[ 2024-01-06 14:28:50,039 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria"
+[ 2024-01-06 14:28:50,319 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Peloria" established
+[ 2024-01-06 14:28:53,976 ] BattlEye: "Server computed GUID: ac2bb9863eb8ec6a163b5fbfd4b0f05f"
+[ 2024-01-06 17:33:31,370 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-06 17:33:32,687 ] Using spritesheet cache size of 910
+[ 2024-01-06 17:33:35,668 ] Asset loading complete
+[ 2024-01-06 17:34:25,494 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-06 17:34:25,495 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-06 17:34:25,495 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-06 17:34:25,558 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2024-01-06 17:34:25,558 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2024-01-06 17:34:25,574 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2024-01-06 17:34:25,942 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2024-01-06 17:34:26,015 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2024-01-06 17:34:29,491 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
+[ 2024-01-06 17:35:32,039 ] Retrying to obtain clipboard.
+[ 2024-01-06 17:40:18,600 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-06 17:40:18,600 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"  was disconnected ( "The remote host closed the connection" )
+[ 2024-01-06 17:40:18,684 ] Disconnected from gameserver
+[ 2024-01-16 10:06:41,279 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-01-16 10:06:42,589 ] Using spritesheet cache size of 910
+[ 2024-01-16 10:06:45,003 ] Asset loading complete
+[ 2024-01-16 10:07:13,133 ] BattlEye: "Initialized (v1.249)"
+[ 2024-01-16 10:07:13,133 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-01-16 10:07:13,133 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-01-16 10:07:13,188 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Hellquiver" )
+[ 2024-01-16 10:07:13,188 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2024-01-16 10:07:13,204 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Collabra"
+[ 2024-01-16 10:07:13,604 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra"
+[ 2024-01-16 10:07:13,839 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Collabra" established
+[ 2024-01-16 10:07:16,133 ] BattlEye: "Server computed GUID: 49a1e995532d9fd2ed0efab7d02b42bd"
